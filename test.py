@@ -1,4 +1,4 @@
-import pandas as pd
+port pandas as pd/Users/hidenori/Downloads/XXX/test.py
 
 df = pd.read_csv("training_data.csv")
 
